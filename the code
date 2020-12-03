@@ -1,0 +1,207 @@
+<style>
+
+
+#top_links a:link,#top_links a:visited{
+ color: #000000 !important;
+}
+
+
+#badges_panel_body{
+overflow:auto;
+height:300px
+}
+
+#badges_panel_body div table{
+    width: 20%;
+    margin: 0px auto;
+}
+
+
+.request_badge_button{
+background-image:url("https://userimages-akm.imvu.com/userdata/63/38/30/77/userpics/Snap_GUUSrqBs6n570418116.png")!important;
+}
+
+#visitors_panel_body {
+background: #000000;
+border-radius: 25px;
+}
+
+#visitors_panel img {
+border-radius: 25px !important;
+}
+
+#visitors_panel_body a:hover img {
+border-radius: 50px !important;
+cursor: crosshair;
+}
+
+
+#badges_panel_body {
+background: #000000;
+border-radius: 25px;
+}
+
+
+#badges_panel_body a:hover img {
+border-radius: 50px !important;
+cursor: crosshair;
+}
+
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+
+::-webkit-scrollbar-track {
+background: #000000;
+border-radius: 50px;
+}
+
+
+::-webkit-scrollbar-thumb {
+  background: #ff6868;
+  border-radius: 50px;
+}
+
+
+#dev_panel_body {
+background: #000000;
+border-radius: 25px;
+}
+
+
+#dev_panel img {
+border-radius: 25px !important;
+}
+
+
+#dev_panel a:hover img {
+border-radius: 50px !important;
+cursor: crosshair;
+}
+
+
+a.av_name {
+display:none !IMPORTANT;
+}
+
+#special_panel img {
+border-radius: 25px !important;
+}
+
+
+#special_panel a:hover img {
+border-radius: 50px !important;
+cursor: crosshair;
+}
+
+
+#special_panel td.notranslate {
+background: #000000;
+border-radius: 25px;
+}
+
+
+a:visited {
+    color: #111133;
+    text-decoration: none !important;
+}
+
+
+a:link {
+    color: #111133;
+    text-decoration: none !important;
+}
+
+
+#specialsomeone-name, #specialsomeone-message {
+color: #ffffff !important;
+font-family: Roboto Condensed;
+font-style: normal;
+}
+
+
+#specialsomeone-name {
+ font-size: 160%;
+}
+
+
+a:hover #specialsomeone-name {
+font-size: 200%;
+color: #ff6868 !important;
+text-decoration: none !important;
+cursor: crosshair;
+}
+
+
+table {
+    text-align: center;
+}
+
+#aboutme_panel, #contact_panel, #dev_panel, #wishlist_panel, #url_panel, #tagcloud_panel, #collect_panel, #visitors_panel, #room_panel, #rankings_panel, #cool_panel, #gallery_panel, #friends_panel, #rss_panel, #video_panel, #special_panel,#outfits_panel, #groups_panel, #badges_panel, #slideshow_panel { 
+margin-bottom: 30px !important;
+}
+
+a.notranslate {
+display:none !IMPORTANT;
+font-size: 0px;
+}
+
+table #wishlist_panel_colRow a:hover img { 
+border-radius: 50px !important;
+cursor: crosshair;
+}
+
+table #wishlist_panel_colRow img { 
+border-radius: 10px !important;
+}
+
+#aboutme_panel_body A {
+color: #ffffff;
+}
+
+#aboutme_panel_body {
+text-align: left !important;
+color: #ffffff;
+font-family: Roboto Condensed;
+}
+
+#aboutme_panel_body {
+background: #000000;
+border-radius: 25px;
+}
+
+#aboutme_panel img {
+border-radius: 25px !important;
+}
+
+#aboutme_panel a:hover img {
+border-radius: 50px !important;
+cursor: crosshair;
+}
+
+
+#aboutme_conditional_information_div { 
+width:100% !important;
+text-align:left !important;
+
+}
+
+span.notranslate {
+font-style: normal !important;
+}
+
+#aboutme_panel, #contact_panel, #dev_panel, #wishlist_panel, #visitors_panel, 
+#tagcloud_panel, #stickers_panel, #room_panel, #rankings_panel, #cool_panel, #gallery_panel, #friends_panel, #rss_panel, #url_panel, #special_panel,#outfits_panel, #video_panel, #groups_panel, #slideshow_panel, #badges_panel {
+  margin:0px auto; width:650px;
+} 
+#leftColumn{ width: 900px; } 
+#rightColumn { display:none !important; } 
+
+#aboutme_panel_header, #contact_panel_header, #dev_panel_header, #wishlist_panel_header, #url_panel_header, 
+#tagcloud_panel_header, #visitors_panel_header, #room_panel_header, #rankings_panel_header, #cool_panel_header, #gallery_panel_header, #friends_panel_header, #blog_panel_header, #rss_panel_header, #video_panel_header, #badges_panel_header, #special_panel_header,#outfits_panel_header, #groups_panel_header { 
+display: none !important; 
+}
+
+</style>
