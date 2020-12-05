@@ -1,7 +1,4 @@
 
-<b>Card type homepage style</b>
-  
-<p><strong>Instructions</strong></p>
-<p>Clean your page (Reset panels), disable unstyled panels, remove panel border if existent <br />&amp; disable badges on homepage or some panels will not display properly<br />Finally you can add the full code to the about me panel</p>
-<p><strong>Styled panels</strong></p>
-<p>About Panel, Wishlist Panel, New Products Panel, Badges Panel and Visitors Panel</p>
+Codes by AquarianPrincess on imvu.com
+These codes are free to use and share alike 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
